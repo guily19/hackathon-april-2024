@@ -1,0 +1,13 @@
+
+# terraform
+terraform/terraform.tfvars
+terraform/.terraform
+
+# lambda-node-openai-messager
+lambda-node-openai-messager/function.zip
+
+# frontend
+frontend/node_modules
+frontend/dist
+frontend/package-lock.json
+frontend/yarn.lock
